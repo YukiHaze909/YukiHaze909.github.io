@@ -1,7 +1,7 @@
 ---
 title: "出国深造系统性规划（日本）"
 date: 2025-12-27 12:00:00 +0800
-categories: [留学, 规划]
+categories: [留学（Study Abroad）, 规划（Planning）]
 tags: [日本, 简历]
 pin: true
 ---
