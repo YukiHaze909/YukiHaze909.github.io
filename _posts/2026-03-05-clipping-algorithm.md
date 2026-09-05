@@ -1,5 +1,5 @@
 ---
-title: 裁剪算法的实现与效率分析
+title: 裁剪算法的实现与效率分析（Implementation and efficiency analysis of the pruning algorithm）
 date: 2026-03-05 10:00:00 +0900
 categories: [技术美术（Technical Art）, 图形学（Technical Art）]
 tags: [计算机图形学, 算法, C++]

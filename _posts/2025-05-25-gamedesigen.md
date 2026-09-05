@@ -1,5 +1,5 @@
 ---
-title: 计算机专业学生的游戏制作探索
+title: 计算机专业学生的游戏制作探索（Game creation exploration by computer science students）
 date: 2026-05-25 12:00:00 +0900
 categories: [技术美术（Technical Art）, 游戏设计（Game Design）]
 tags: [游戏开发，计算机图形学，技术美术，游戏引擎，美术风格]
